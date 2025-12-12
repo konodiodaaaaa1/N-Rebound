@@ -121,7 +121,8 @@ XGBoost 模型分析显示，以下因子最为关键：
 ## 📂 文件结构说明
 
   * `paper_bot.py`: **[核心]** 自动交易机器人主程序。
-  * `ai_filter.py`: **[核心]** AI 推理接口，负责加载 XGBoost 模型。
+  * `ai_filter.py`:  AI 推理接口，原transformer架构。
+  * `ai_filter_xgboost.py`:**[核心]** 新AI 推理接口，负责加载 XGBoost 模型。
   * `night_screener.py`: N字策略选股脚本。
   * `train_xgboost.py`: 模型训练脚本（包含特征工程）。
   * `dataset_maker.py`: 数据清洗与打标脚本（含 T+1 风控逻辑）。
