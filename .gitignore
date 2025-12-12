@@ -3,6 +3,7 @@ __pycache__/
 *.csv
 *.pth
 *.model
+*.bat
 .idea/
 .vscode/
 venv/
