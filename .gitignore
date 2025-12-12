@@ -1,0 +1,9 @@
+training_data/
+__pycache__/
+*.csv
+*.pth
+*.model
+.idea/
+.vscode/
+venv/
+stock_env/
