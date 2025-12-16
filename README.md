@@ -1,5 +1,5 @@
 # 📈 N-Rebound: AI-Powered A-Share Quantitative Trading System
-# N-Rebound A股全自动量化交易系统 (XGBoost 增强版)
+# N-Rebound A股量化交易捕捉与评估系统 (XGBoost 增强版)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![XGBoost](https://img.shields.io/badge/AI-XGBoost-green)
